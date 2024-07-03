@@ -25,7 +25,7 @@ class _LoginState extends State<Login> {
         backgroundColor: AppColors.primaryColor,
         resizeToAvoidBottomInset: false,
         body: SizedBox(
-          height: 756.r,
+          height: 750.r,
           width: double.maxFinite,
           child: Stack(
             alignment: Alignment.bottomCenter,
